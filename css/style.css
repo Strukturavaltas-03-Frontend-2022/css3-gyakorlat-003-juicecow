@@ -80,7 +80,7 @@ figure img{width:300px;}
 * 16. magasság: 8 pixel
 */
 
-.blog > .carousel-indicators{
+.blog .carousel-indicators li{
   background-color: #708198;
   border-radius: 50%;
   width: 8px;
